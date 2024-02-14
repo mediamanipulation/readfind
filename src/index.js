@@ -26,3 +26,5 @@ root.render(
 );
 
 //https://openlibrary.org/developers/api
+
+//https://mediamanipulation.github.io/readfind/
